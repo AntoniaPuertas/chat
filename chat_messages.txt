@@ -1,0 +1,5 @@
+2024-10-17 11:08:23 - Usuario: hola
+2024-10-17 11:09:54 - Usuario: que tal
+2024-10-17 11:10:27 - Usuario: estoy bien
+2024-10-17 11:10:59 - Usuario: y yo
+2024-10-17 11:21:45 - Usuario: que tal
